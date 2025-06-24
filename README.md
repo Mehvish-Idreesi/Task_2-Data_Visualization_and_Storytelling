@@ -1,8 +1,8 @@
 # Task_2_Data_Visualization_and_Storytelling 
 Elevate Labs Data Analyst Internship  
-<br>  
+<br>
 Date: June 24, 2025  
-<br>  
+<br>
 Author: Mehvish Idreesi  
 <br>
 
